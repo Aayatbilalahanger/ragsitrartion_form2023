@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.container{
+    width: 380px;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    margin: 35%;
+    margin-top: 22px;
+}
+.input .inpt{
+    height: 25px;
+    width: 300px;
+    border: 1px solid orange;
+    margin-top: 22px;
+
+}
+.fname{
+    width: 130px;
+    height: 25px;
+}
+.lname{
+    width: 120px;
+    height: 25px;
+}
+.input .inpt{
+    height: 25px;
+    width: 300px;
+    border: 1px solid orange;
+}
+.input i{
+    padding: 6px;
+    border: 1px solid black;
+}
+.gender{
+    margin-top: 22px;
+    font-size: 20px;
+    margin-right: 170px;
+}
+button{
+    height: 33px;
+    width: 300px;
+    background-color: orange;
+    cursor: pointer;
+    border: 0;
+    margin-top: 40px;
+}
+button :hover{
+    background-color: black;
+}
